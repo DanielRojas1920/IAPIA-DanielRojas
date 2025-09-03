@@ -244,3 +244,8 @@ Examples from test set:
 
 
 Global results indicate high per-label accuracy and moderate ranking precision, but a low Exact Match Ratio (expected in a 14-label setting). The Hamming Loss shows that on average only 13% of labels are incorrectly predicted.
+
+### Oficial Documentation
+- [Latex Article - English](https://drive.google.com/file/d/1azeHtvQ2CHdJH-t13q388mX3OuhunvvT/view?usp=sharing)
+- [Article - Spanish](https://drive.google.com/file/d/1fMa_XvzvOPixa2HP7KKS1J320gpEWK8T/view?usp=sharing)
+
